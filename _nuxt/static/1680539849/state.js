@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fdesinsection\u002F_nuxt\u002Fstatic\u002F1680539849",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fdesinsection\u002F",assetsPath:"\u002Fdesinsection\u002F_nuxt\u002F",cdnURL:a}}}}(null));
